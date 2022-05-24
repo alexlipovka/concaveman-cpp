@@ -1,7 +1,7 @@
 # %%
 from concaveman import concaveman2d
 import matplotlib as mpl
-# mpl.use('Qt5Agg')
+# mpl.use('Qt5Agg') # отключим для работы с JavaScript бекэндом в jupyter
 import matplotlib.pyplot as plt
 import json
 import numpy as np
